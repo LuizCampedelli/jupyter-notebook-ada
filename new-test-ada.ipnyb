@@ -1,0 +1,10 @@
+# Solicitar as informações do usuário
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+hobby = input("Digite seu hobby: ")
+
+# Criar a sentença
+sentenca = f"Meu nome é {nome}, tenho {idade} anos e meu hobby é {hobby}."
+
+# Imprimir a sentença
+print(sentenca)
